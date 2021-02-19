@@ -1,0 +1,13 @@
+{
+    "name": "ninesource/think-demo",
+    "description": "a test project",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Nine Source",
+            "email": "188860534@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
